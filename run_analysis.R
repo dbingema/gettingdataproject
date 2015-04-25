@@ -22,8 +22,8 @@ combined <- rbind(train, test)
 
 ## Part 2
 
-mean.index <- grep("mean", names(combined))
-std.index <- grep("std", names(combined))
+mean.index <- grep("\\.mean\\.", names(combined))
+std.index <- grep("\\.std\\.", names(combined))
 mean.std.index <- sort(unique(c(mean.index, std.index)))
 
 library(dplyr)
