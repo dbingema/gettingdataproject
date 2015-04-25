@@ -15,45 +15,28 @@ a numeric index and the activity as a word.
 The remaining 66 columns represent average means and standard deviations
 over the following types of measurements::
 
-tBodyAcc-XYZ
-
-tGravityAcc-XYZ
-
-tBodyAccJerk-XYZ
-
-tBodyGyro-XYZ
-
-tBodyGyroJerk-XYZ
-
-tBodyAccMag
-
-tGravityAccMag
-
-tBodyAccJerkMag
-
-tBodyGyroMag
-
-tBodyGyroJerkMag
-
-fBodyAcc-XYZ
-
-fBodyAccJerk-XYZ
-
-fBodyGyro-XYZ
-
-fBodyAccMag
-
-fBodyAccJerkMag
-
-fBodyGyroMag
-
-fBodyGyroJerkMag
+* tBodyAcc-XYZ
+* tGravityAcc-XYZ
+* tBodyAccJerk-XYZ
+* tBodyGyro-XYZ
+* tBodyGyroJerk-XYZ
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyGyroJerkMag
+* fBodyAcc-XYZ
+* fBodyAccJerk-XYZ
+* fBodyGyro-XYZ
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroMag
+* fBodyGyroJerkMag
 
 and the following parameters estimated from the signals:
 
-mean(): Mean value
-
-std(): Standard deviation
+* mean(): Mean value
+* std(): Standard deviation
 
 
 The complete list of variables of each feature vector is available 
