@@ -1,7 +1,5 @@
 # Code Book
 
-Feature Selection 
-=================
 
 This dataset is based on the UCI Machine Learning Smart Phone dataset "UCI HAR Dataset". 
 
